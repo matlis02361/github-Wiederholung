@@ -1,2 +1,2 @@
 # github-Wiederholung
-Enie wiederholung derwichtigsten Github Commandos
+Enie wiederholung der wichtigsten Github Commandos
